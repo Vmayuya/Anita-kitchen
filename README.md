@@ -13,4 +13,4 @@ Javascript, jquery,HTML,CSS
 ## Support and contact details
 Incase of any issues or difficulties contact me via my mobile +254716825624 or email victoriamayuya09@gmail.com
 ### License
-Copyright (c) 2018 **VICTORIA MAYUYA**
+Victoria (c) 2018 **VICTORIA MAYUYA**
