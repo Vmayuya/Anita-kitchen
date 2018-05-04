@@ -5,7 +5,7 @@
 This Application is designed to create awareness to the masses about the food and services they can get at Anita's Kitchen.
 It also details the menus on offer and some of the reactions from previous customers and the number build up.
 ## Setup/Installation Requirements
-This Application can be viewed live at https://vmayuya.github.io/mpft1-ip/
+This Application can be viewed live at https://vmayuya.github.io/Anita-kitchen/
 ## Known Bugs
 So far none, the Application works just fine.
 ## Technologies Used
