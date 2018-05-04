@@ -116,6 +116,8 @@
 }
 #capture {
   font-size: 30px;
+  color: white;
+  border-width: thin;
 }
 #ff {
   width: 292.5px;
