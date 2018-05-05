@@ -90,6 +90,9 @@
   text-align: center;
   padding: 0px;
 }
+div#tee.container-fluid {
+  padding: 0px;
+}
 .col-md-5{
   text-align: center;
 }
