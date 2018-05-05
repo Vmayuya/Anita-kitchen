@@ -93,6 +93,12 @@
 div#tee.container-fluid {
   padding: 0px;
 }
+input#mce-EMAIL.email {
+  background-color: inherit;
+}
+input#mc-embedded-subscribe.button {
+  background-color: #F15A29;
+}
 .col-md-5{
   text-align: center;
 }
