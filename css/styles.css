@@ -79,9 +79,12 @@
   margin-left: auto;
   margin-bottom: 100px;
   padding-left: 0px;
+  padding-right: 0px;
 }
 #precious {
   width: inherit;
+  height: 52px;
+  padding: 0px;
 }
 #polite {
   height: 300px;
@@ -139,6 +142,8 @@
 }
 .panel-footer {
   text-align: center;
+  padding: 0px;
+  height: 30px;
 }
 .foot {
   padding-right: 50px;
@@ -203,11 +208,16 @@
   opacity: 0.5;
   color: black;
 }
+.drinks {
+  padding-left: 50px;
+}
 #vv {
   border-color: orange;
 }
 .tablink {
   border-color: orange;
+  height: 42px;
+  padding: 0px;
 }
 #dd {
   color: #f15A29;
