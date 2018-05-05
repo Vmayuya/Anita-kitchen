@@ -126,6 +126,9 @@
 #fd {
   width: 292.5px;
 }
+#fastfood {
+  color: #F15A29;
+}
 #ck {
   width: 292.5px;
 }
@@ -136,6 +139,7 @@
   text-align: center;
   padding: 0px;
   height: 30px;
+  background-color: white;
 }
 .foot {
   padding-right: 120px;
@@ -210,6 +214,7 @@
   border-color: orange;
   height: 42px;
   padding: 0px;
+  background-color: white;
 }
 #dd {
   color: #f15A29;
