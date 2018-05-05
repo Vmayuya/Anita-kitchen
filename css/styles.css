@@ -1,44 +1,44 @@
 .back {
   background-image: url("../img/landing.jpg");
+  height: 636px;
 }
 .back2 {
   text-align: center;
   padding-bottom: 25px;
 }
 .happy {
-  height: 100px;
   background-color: #F15A29;
+  padding-bottom: 85px;
+  padding-top: 10px;
 }
 .party {
-  height: 100px;
+  padding-bottom: -30px;
   }
 #tooth{
   width: 100%;
+}
+#land:hover {
+  color: blaCK;
 }
 #land{
   position: absolute;
   bottom: 0;
   color: #f1f1f1;
   width: 100%;
-  padding: 20px;
+  padding-bottom: 50px;
   text-align: center;
   font-size: 40px
 }
-.col-md-3{
+/*.col-md-3{
   /* width: 100%; */
-  /* width: 100%; */
+  /* width: 100%;
   padding-left: 8px;
   padding-bottom: 4px;
 
-}
+}*/
 .stackem div{
-  position: inherit;
-  width: 165%;
-  padding-bottom: 112px;
   text-align: center;
-  padding-right: 219px;
-  padding-left: 2px;
-  height: 147.69px;
+  padding-left: 0px;
 }
 .area{
   width: 100%;
@@ -50,11 +50,11 @@
 #saint:hover {
   color: rgba(0,0,0, 0.9);
 }
-#sent {
+/*#sent {
   width: 107%;
   padding-left: 0px;
   padding-right: 0px;
-}
+}*/
 .scary{
   position: absolute;
   bottom: 0;
@@ -148,8 +148,8 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0, 0.9);
+    background-color: #F15A29;
+  /*  background-color: rgba(0,0,0, 0.9);*/
     overflow-x: hidden;
     transition: 0.5s;
 }
