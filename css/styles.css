@@ -80,9 +80,10 @@
   margin-bottom: 100px;
   padding-left: 0px;
   padding-right: 0px;
+  width: 1000px;
 }
 #precious {
-  width: inherit;
+  width: 1000px;
   height: 52px;
   padding: 0px;
 }
@@ -132,7 +133,7 @@
   color: #f15A29;
 }
 #fd {
-  width: 292.5px;
+  width: 250px;
 }
 #ck {
   width: 292.5px;
@@ -144,6 +145,8 @@
   text-align: center;
   padding: 0px;
   height: 30px;
+  background-color: white;
+  width: inherit;
 }
 .foot {
   padding-right: 50px;
@@ -218,6 +221,7 @@
   border-color: orange;
   height: 42px;
   padding: 0px;
+  width: 250px;
 }
 #dd {
   color: #f15A29;
